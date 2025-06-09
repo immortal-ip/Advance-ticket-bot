@@ -1,0 +1,7 @@
+{
+  "name": "advanced-ticket-bot",
+  "version": "1.0.0",
+  "description": "Advanced Ticket Bot made by Akshay",
+  "main": "index.js",
+  "dependencies": {}
+}
